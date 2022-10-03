@@ -1,0 +1,29 @@
+The purpose of this working group is to support ISPOs with materials needed to teach and scale InnerSource in their respective company.
+This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
+
+# Summary
+
+We believe that most training and teaching content can be shared across companies when those companies share the same relevant points of context.
+While not every company is exactly the same, not every company is wholly different, either.
+For each challenge in InnerSource, we believe that there may be about a half-dozen ways of solving it (depending on context) that, as a set, work for 80% of companies out there.
+Our goal is to document these half-dozen solutions to challenges, make it easy for ISPOs to find which apply to them, and then to produce sharable, open source implementations of these solutions.
+These implementations will likely be documents, videos, or code, each of which is generic enough to be used across companies,
+yet specific enough that people in the company can leverage them to solve their problems without needing notable amounts of company-specific work.
+
+# Example
+
+As an example, to the challenge of `How do I sell InnerSource to Senior Leadership?`,
+this working group could ensure that there are video clips explaining various benefits of InnerSource from a Senior Leader perspective.
+There would be diifferent clips that highlight different benefits of InnerSource,
+and the ISPO could select those videos that highlight the benefits that their Senior Leaders care about.
+
+As another example, to the challenge of `How do I show InnerSource KPIs`,
+this working group could ensure that there is a software project that will produce charts of InnerSource activity from sources like _GitHub_ and Jira.
+The project could be configured in a (finite) number of ways, depending on varying setup of _GitHub_ and Jira that affects tha report views.
+
+These two examples follow the same pattern - providing directly-usable materials that help ISPOs to advance their mission in their company.
+
+# Implementation
+
+
+and provide open-source imp
