@@ -3,14 +3,14 @@ This material could be directed towards senior leaders, managers, or individuals
 
 # Summary
 
-We believe that most training and teaching content can be shared across companies when those companies share the same relevant points of context.
+We believe that most training and teaching content can be shared across companies when those institutions share the same relevant points of context.
 While not every company is exactly the same, not every company is wholly different, either.
 For each challenge in InnerSource, we believe that there may be about a half-dozen ways of solving it (depending on context) that, as a set, work for 80% of companies out there.
 Our goal is to document these half-dozen solutions to challenges, make it easy for ISPOs to find which apply to them, and then to produce sharable, open source implementations of these solutions.
 These implementations will likely be documents, videos, or code, each of which is generic enough to be used across companies,
 yet specific enough that people in the company can leverage them to solve their problems without needing notable amounts of company-specific work.
 
-# Example
+# Examples
 
 As an example, to the challenge of `How do I sell InnerSource to Senior Leadership?`,
 this working group could ensure that there are video clips explaining various benefits of InnerSource from a Senior Leader perspective.
@@ -25,5 +25,14 @@ These two examples follow the same pattern - providing directly-usable materials
 
 # Implementation
 
+This working group will track the production of solutions to challenges with InnerSource.
+We will track this production on a Kanban board with the following columns:
 
-and provide open-source imp
+1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
+1. **Proposed**.  We have a proposal for a solution to the challenge.
+1. **Internal**.  We have implemented the solution internal in a company.
+1. **External**.  We have implemented the solution externally.
+1. **Validated**.  More than one company is using the solution.
+
+We will have a weekly meeting of all ISPO owners where we will list new challenges, discuss proposed solutions, and demo finished solutions.
+It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. Patterns, Learning Path).
