@@ -17,7 +17,7 @@ this working group could ensure that there are video clips explaining various be
 There would be diifferent clips that highlight different benefits of InnerSource,
 and the ISPO could select those videos that highlight the benefits that their Senior Leaders care about.
 
-As another example, to the challenge of `How do I show InnerSource KPIs`,
+As another example, to the challenge of `How do I show InnerSource KPIs?`,
 this working group could ensure that there is a software project that will produce charts of InnerSource activity from sources like _GitHub_ and Jira.
 The project could be configured in a (finite) number of ways, depending on varying setup of _GitHub_ and Jira that affects tha report views.
 
