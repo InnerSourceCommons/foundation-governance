@@ -30,7 +30,7 @@ We will track this production on a Kanban board with the following columns:
 
 1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
 1. **Proposed**.  We have a proposal for a solution to the challenge.
-1. **Internal**.  We have implemented the solution internal in a company.
+1. **Internal**.  We have implemented the solution internally in a company.
 1. **External**.  We have implemented the solution externally.
 1. **Validated**.  More than one company is using the solution.
 
