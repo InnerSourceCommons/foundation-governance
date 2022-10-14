@@ -23,3 +23,4 @@ To move the foundation forward we need a basis of active members, who are commit
    * Active participation at the ISC shows committment to the topic as an employer, it also show leadership in the field for any consulting businesses.
 * Semi-formal mentorship programs can help Juniors at the beginning of their InnerSource journey become productive inside of the InnerSource commons more quickly.
 * How-To sessions on how to contribute and why can highlight contributions we value - this could be a community call.
+* Make it clear that we are looking for contributions from everyone, nameing specific groups who have trouble feeling invited explicitly can help.
