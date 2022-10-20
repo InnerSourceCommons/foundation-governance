@@ -14,12 +14,12 @@ yet specific enough that people in the company can leverage them to solve their 
 
 As an example, to the challenge of `How do I sell InnerSource to Senior Leadership?`,
 this working group could ensure that there are video clips explaining various benefits of InnerSource from a Senior Leader perspective.
-There would be diifferent clips that highlight different benefits of InnerSource,
+There would be different clips that highlight different benefits of InnerSource,
 and the ISPO could select those videos that highlight the benefits that their Senior Leaders care about.
 
 As another example, to the challenge of `How do I show InnerSource KPIs?`,
 this working group could ensure that there is a software project that will produce charts of InnerSource activity from sources like _GitHub_ and Jira.
-The project could be configured in a (finite) number of ways, depending on varying setup of _GitHub_ and Jira that affects tha report views.
+The project could be configured in a (finite) number of ways, depending on varying setup of _GitHub_ and Jira that affects that report views.
 
 These two examples follow the same pattern - providing directly-usable materials that help ISPOs to advance their mission in their company.
 
