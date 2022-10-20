@@ -14,7 +14,7 @@ yet specific enough that people in the company can leverage them to solve their 
 
 As an example, to the challenge of `How do I sell InnerSource to Senior Leadership?`,
 this working group could ensure that there are video clips explaining various benefits of InnerSource from a Senior Leader perspective.
-There would be diifferent clips that highlight different benefits of InnerSource,
+There would be different clips that highlight different benefits of InnerSource,
 and the ISPO could select those videos that highlight the benefits that their Senior Leaders care about.
 
 As another example, to the challenge of `How do I show InnerSource KPIs?`,
