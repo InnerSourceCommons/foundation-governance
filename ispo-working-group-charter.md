@@ -25,7 +25,7 @@ The project could be configured in a (finite) number of ways, depending on varyi
 
 These two examples follow the same pattern - providing directly-usable materials that help ISPOs to advance their mission in their company.
 
-# Implementation
+## Implementation
 
 This working group will track the discovery, production, and spread of solutions to challenges with InnerSource.
 We will track this production on a Kanban board with the following columns:
