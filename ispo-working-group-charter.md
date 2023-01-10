@@ -3,7 +3,7 @@
 The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company.
 This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
 
-# Summary
+## Summary
 
 We believe that most training and teaching content can be shared across companies when those institutions share the same relevant points of context.
 While not every company is exactly the same, not every company is wholly different, either.
