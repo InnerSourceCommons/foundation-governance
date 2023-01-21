@@ -4,6 +4,8 @@ This working group aims to provide materials to InnerSource Program Offices (ISP
 
 ## Summary
 
+The majority of training and teaching content can be shared across companies when the contexts are similar.  
+
 While not every company in InnerSource is the same, not every company is different. For each challenge in InnerSource, a few standard solutions may work for most.  
 
 We document standard solutions to challenges, make them discoverable, and provide open source implementations of these solutions.  
