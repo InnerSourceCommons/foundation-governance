@@ -34,11 +34,11 @@ Workgroup members will discover, produce, and spread InnerSource solutions.
 
 This production will be tracked on a Kanban board as follows:
 
-1. **Challenge** — We've identified a problem as a challenge.
-1. **Proposed** — An article, coding up a tool, a training video, etc., that could meet the challenge.
-1. **Internal** — The solution has been implemented internally.
-1. **External** — The solution is externally available.
-1. **Validated** — Solution used by more than one company.
+1. **Challenge** — We've identified a challenge.
+2. **Proposed** — An article, a tool, a software feature, a training video, etc., that could meet the challenge.
+3. **Internal** — The solution has been implemented internally.
+4. **External** — The solution is externally available.
+5. **Validated** —The solution is used by more than one company.
 
 We will list new challenges weekly, discuss proposed solutions, and demo effective solutions.  
 
