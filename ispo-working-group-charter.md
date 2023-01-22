@@ -24,7 +24,7 @@ Taking the challenge:
 
 *How do I present InnerSource KPIs?*  
 
-Our group could create a software project to generate InnerSource activity charts from GitHub and Jira. Depending on GitHub and Jira report configurations, a project could be preconfigured in limited ways.  
+Our group could create a software project to generate InnerSource activity charts from common source code management systems and issue trackers.  This project could be configured in a (finite) number of ways, depending on varying setup of the tools.
 
 ISPOs can use these examples to advance their missions by providing directly-useable materials that fill business needs.  
 
