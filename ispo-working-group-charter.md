@@ -1,41 +1,45 @@
 # ISPO Working Group Charter
 
-The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, teach and scale InnerSource in their respective company.
-This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
+This working group aims to provide materials to InnerSource Program Offices (ISPOs) to help them establish themselves, teach InnerSource, and scale. Senior leaders, managers, or individuals in various roles can benefit from this material.  
 
 ## Summary
 
-We believe that most training and teaching content can be shared across companies when those institutions share the same relevant points of context.
-While not every company is exactly the same, not every company is wholly different, either.
-For each challenge in InnerSource, we believe that there are a small number of ways of common ways to address it that should work for most companies.
-Our goal is to document these sets of solutions to challenges, make it easy for ISPOs to find which apply to them, and then to produce sharable, open source implementations of these solutions.
-These implementations will likely be documents, videos, or code, each of which is generic enough to be used across companies,
-yet specific enough that people in the company can leverage them to solve their problems without needing notable amounts of company-specific work.
+The majority of training and teaching content can be shared across companies when the contexts are similar.  
+
+While not every company in InnerSource is the same, not every company is different. For each challenge in InnerSource, a few standard solutions may work for most.  
+
+We document standard solutions to challenges, make them discoverable, and provide open source implementations of these solutions.  
+
+Documents, videos, or code will likely be implemented, each generic yet specific enough to be used across companies without requiring significant company-specific work to solve problems.  
 
 ## Examples
 
-As an example, to the challenge of `How do I sell InnerSource to Senior Leadership?`,
-this working group could ensure that there are video clips explaining various benefits of InnerSource from a Senior Leader perspective.
-There would be different clips that highlight different benefits of InnerSource,
-and the ISPO could select those videos that highlight the benefits that their Senior Leaders care about.
+The working group could introduce video clips to explain InnerSource's various benefits from a Senior Leader's perspective, for example, to answer the question:  
 
-As another example, to the challenge of `How do I show InnerSource KPIs?`,
-this working group could ensure that there is a software project that will produce charts of InnerSource activity from sources like _GitHub_ and Jira.
-The project could be configured in a (finite) number of ways, depending on varying setup of _GitHub_ and Jira that affects tha report views.
+*How do I sell InnerSource to Senior Leadership?*  
 
-These two examples follow the same pattern - providing directly-usable materials that help ISPOs to advance their mission in their company.
+IPSOs could curate InnerSource videos that benefit their Senior Leaders.  
+
+Taking the challenge:
+
+*How do I present InnerSource KPIs?*  
+
+Our group could create a software project to generate InnerSource activity charts from common source code management systems and issue trackers.  This project could be configured in a (finite) number of ways, depending on varying setup of the tools.
+
+ISPOs can use these examples to advance their missions by providing directly-useable materials that fill business needs.  
 
 ## Implementation
 
-This working group will track the discovery, production, and spread of solutions to challenges with InnerSource.
-We will track this production on a Kanban board with the following columns:
+Workgroup members will discover, produce, and spread InnerSource solutions.  
 
-1. **Challenge**.  This means that we've identified such-and-such a thing as a challenge.
-1. **Proposed**.  We have a proposal for a solution to the challenge.
-This could be to write an article, code up a tool, create a training video, etc.
-1. **Internal**.  We have implemented the solution internally in a company.
-1. **External**.  We have made the solution available externally.
-1. **Validated**.  More than one company is using the solution.
+This production will be tracked on a Kanban board as follows:
 
-We will have a weekly meeting where we will list new challenges, discuss proposed solutions, and demo finished solutions.
-It is expected that the implementation of many solutions may be contributions to other working groups in the InnerSource Commons (e.g. Patterns, Learning Path).
+1. **Challenge** — We've identified a challenge.
+2. **Proposed** — An article, a tool, a software feature, a training video, etc., that could meet the challenge.
+3. **Internal** — The solution has been implemented internally.
+4. **External** — The solution is externally available.
+5. **Validated** —The solution is used by more than one company.
+
+We will list new challenges weekly, discuss proposed solutions, and demo effective solutions.  
+
+It is expected that many solutions will be implemented by other InnerSource Commons working groups (e.g., Patterns, Learning Path)  
