@@ -1,3 +1,5 @@
+# Creating a Working Group in the InnerSource Commons
+
 This document describes some part of how to create a working group in the InnerSource Commons.
 
 * Create a _Slack_ channel with the name of your working group.
