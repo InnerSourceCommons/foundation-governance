@@ -2,7 +2,7 @@
 
 This document describes some part of how to create a working group in the InnerSource Commons.
 
-* Create a _Slack_ channel with the `#wg-` prefix so that you end up with something like `#wg-my-awesome-working-group`.
+* Create a _Slack_ channel with the name of your working group.
 * Send out invites using the [InnerSource Commons calendar].
 * Schedule video calls with https://meet.jit.si/.
 * Make a folder with the name of your working group in the [InnerSource Commons GDrive].
