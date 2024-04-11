@@ -26,7 +26,7 @@ If you want to help with outreach and marketing, feel free to join on Slack the 
 
 As a general rule of thumb: There's no expectation at all that new contributors start by sending us patches. Much like in open source you are invited to join our communication channels and spend some time watching over the shoulder. After a little while you will find yourself starting to answer incoming questions, provide insights to discussions initiated. Those are already very valuable contributions! Over time you may find yourself making modifications to our existing material - this can be as small as adding your organisation to the known instances section of a pattern, or as large as creating a learning path segment that you need for rolling out InnerSource in your organisation. Chances are high that you will find others in need for that material as well - and willing to collaborate on the material together with you.
 
-Donating time is the only way for you to become a member of the foundation and gain voting rights on new members and board members. One caveat though: All of the work shaping InnerSource happens withing the working groups. The foundation exists to enable those groups and provide some shelter from whatever legal risk there may be from working in the public.
+Donating time is the only way for you to become a member of the foundation and gain voting rights on new members and board members. One caveat though: All of the work shaping InnerSource happens within the working groups. The foundation exists to enable those groups and provide some shelter from whatever legal risk there may be from working in the public.
 
 ## Donate money
 
