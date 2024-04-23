@@ -11,4 +11,4 @@ Read more about Google Groups in the [docs]
 
 [Google Groups]: https://groups.google.com/my-groups
 [docs]: https://support.google.com/groups/answer/46601?hl=en
-[#google-admins] https://innersourcecommons.slack.com/archives/C06V6RGLBP1
+[#google-admins]: https://innersourcecommons.slack.com/archives/C06V6RGLBP1
