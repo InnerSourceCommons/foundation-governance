@@ -17,21 +17,21 @@ Please follow this guidance when adding a new event to the calendar:
    - **Your first sentence should state whether the meeting/event is open to everyone or if it is open to people with an interest in a specific aspect of InnerSource.** 
    - **Your next sentence should give a general description of the group.** 
 
-##Example 1 - Community Calls
+## Example 1 - Community Calls
 
-**Title**: Community Call: Why InnerSource works on Teams
-**When**: Tues, September 1, 5pm-6pm
-**Where**: See meeting description
-**Description**: 
+* **Title**: Community Call: Why InnerSource works on Teams
+* **When**: Tues, September 1, 5pm-6pm
+* **Where**: See meeting description
+* **Description**: 
 Our Community Calls are open to anyone interested in InnerSource. In our Community Calls, our experts speak on a topic and then answer questions from the community. In this Call Expert A will speak about their experience of managing successful InnerSource projects across teams in multinational companies and shares learning about what works.
 (Add link to zoom here)
 
-##Example 2 - Marketing Working Group
+## Example 2 - Marketing Working Group
 
-**Title**: Marketing Working Group
-**When**: Tues, September 8, 4pm-5pm
-**Where**: (add jitsi link here)
-**Description**: 
+* **Title**: Marketing Working Group
+* **When**: Tues, September 8, 4pm-5pm
+* **Where**: (add jitsi link here)
+* **Description**: 
 Our Marketing Working Groups are open to everyone in the InnerSource community. At our Marketing Working group, we discuss our activities promoting InnerSource to a wide audience. Our talks cover Community Calls, in-person Gatherings and official events. We're also currently discussing badging and recognition events. We welcome new ideas from everyone in the community.
 (Add link to meeting notes)
 
