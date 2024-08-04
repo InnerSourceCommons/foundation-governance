@@ -10,16 +10,17 @@ When creating events, be sure that your title is clear to anyone that reads it a
 
 Please follow this guidance when adding a new event to the calendar:
 
-1. Remove any abbreviations or jargon from the **title of your event** 
-2. Add date, time
-3. If you're having an online meeting, then please add the zoom link, eventbrite/registration link or how to access the meeting in the **where** section of the calendar notice
-4. The **meeting description** should be very clear:
+1. Many people merge their InnerSource Calendar events with their other calendars, so please start the **title of your meeting or event** with 'ISC' (for InnerSource Commons).
+2. Remove any other abbreviations or jargon from the **title of your event** 
+3. Add date, time
+4. If you're having an online meeting, then please add the zoom link, eventbrite/registration link or how to access the meeting in the **where** section of the calendar notice
+5. The **meeting description** should be very clear:
    - **Your first sentence should state whether the meeting/event is open to everyone or if it is open to people with an interest in a specific aspect of InnerSource.** 
    - **Your next sentence should give a general description of the group.** 
 
 ## Example 1 - Community Calls
 
-* **Title**: Community Call: Why InnerSource works on Teams
+* **Title**: ISC Community Call: Why InnerSource works on Teams
 * **When**: Tues, September 1, 5pm-6pm
 * **Where**: See meeting description
 * **Description**: 
@@ -28,7 +29,7 @@ Our Community Calls are open to anyone interested in InnerSource. In our Communi
 
 ## Example 2 - Marketing Working Group
 
-* **Title**: Marketing Working Group
+* **Title**: ISC Marketing Working Group
 * **When**: Tues, September 8, 4pm-5pm
 * **Where**: (add jitsi link here)
 * **Description**: 
