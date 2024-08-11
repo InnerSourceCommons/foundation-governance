@@ -1,3 +1,9 @@
+---
+title: Access ISC Calendar
+type: docs
+prev: foundation-governance/how-to/
+---
+
 The InnerSource Commons Foundation has a [Google calendar] that people can use to view and schedule events in the InnerSource Commons.
 If you want to use the calendar, then you can request access by posting a message in the [#google-admins] Slack channel.
 The InnerSource Commons Public Calendar is for public events.

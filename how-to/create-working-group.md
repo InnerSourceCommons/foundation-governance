@@ -1,4 +1,8 @@
-# Creating a Working Group in the InnerSource Commons
+---
+title: Creating a Working Group
+type: docs
+prev: foundation-governance/how-to/
+---
 
 This document describes some part of how to create a working group in the InnerSource Commons.
 
