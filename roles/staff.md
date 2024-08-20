@@ -36,4 +36,4 @@ Ciara leads in all public communication for the Foundation (social media, newsle
 
 # Community Manager
 The Community Manager is the staff member specializing in **support and organization of community participants**.
-The Community Manager leads in supporting the involvement of community participants in community events, activities and projects.
+The Community Manager leads in supporting the involvement of community participants in community activities and projects.
