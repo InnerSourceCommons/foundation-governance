@@ -1,4 +1,7 @@
-# ISPO Working Group Charter
+---
+title: ISPO Working Group Charter
+type: docs
+---
 
 This working group aims to provide materials to InnerSource Program Offices (ISPOs) to help them establish themselves, teach InnerSource, and scale.
 Senior leaders, managers, or individuals in various roles can benefit from this material.  
