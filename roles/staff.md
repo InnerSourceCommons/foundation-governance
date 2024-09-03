@@ -11,6 +11,7 @@ Our [strategy document](https://github.com/InnerSourceCommons/foundation/blob/ma
 Each staff person has areas of work in the Foundation where they lead in implementation and support.
 That person should feel special dedication to excellence in that area.
 That said, _all_ staff should do their best to understand, give feedback, and be willing to pitch in and work on any aspect of work that the Foundation needs done from its staff.
+The annual summit, being the Foundation's largest single activity, receives attention, dedication, and leadership from all staff.
 
 # Russ Rutledge
 
@@ -28,7 +29,7 @@ Andrea leads in supporting all technical aspects and resources of the Foundation
 # Olive Cannon
 
 Olive is the staff member specializing in **events**.
-Olive leads in supporting all Foundation events (Gatherings, Community Calls, Summit, etc).
+Olive leads in supporting all Foundation events (Gatherings, Community Calls, etc).
 
 # Ciara Flanagan
 Ciara is the staff member specializing in **social media and communication**.
