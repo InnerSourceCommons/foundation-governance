@@ -33,7 +33,7 @@ Our Community Calls are open to anyone interested in InnerSource. In our Communi
 * **When**: Tues, September 8, 4pm-5pm
 * **Where**: (add jitsi link here)
 * **Description**: 
-Our Marketing Working Groups are open to everyone in the InnerSource community. At our Marketing Working group, we discuss our activities promoting InnerSource to a wide audience. Our talks cover Community Calls, in-person Gatherings and official events. We're also currently discussing badging and recognition events. We welcome new ideas from everyone in the community.
+Our Marketing Working Groups are open to everyone in the InnerSource community. At our Marketing Working group, we discuss our activities promoting InnerSource to a wide audience. Our talks cover Community Calls, in-person Gatherings and official events. We're also currently discussing badging and recognition activities. We welcome new ideas from everyone in the community.
 (Add link to meeting notes)
 
 [#google-admins]: https://app.slack.com/client/T04PXKRM0/C06V6RGLBP1
