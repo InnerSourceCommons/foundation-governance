@@ -1,4 +1,4 @@
-#Introduction to adding calendar events to our public calendar
+# Introduction to adding calendar events to our public calendar
 
 The InnerSource Commons Foundation has a public [Google calendar] that people can use to view and schedule events in the InnerSource Commons [website](https://innersourcecommons.org/calendar/).
 If you want to add an InnerSource event to our public calendar, you can request access by posting a message in the [#google-admins] Slack channel.
