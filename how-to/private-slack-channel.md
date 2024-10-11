@@ -1,4 +1,10 @@
-# How to Create a Private Slack Channel
+---
+title: Private Slack Channel
+type: docs
+prev: foundation-governance/how-to/
+---
+
+## How to Create a Private Slack Channel
 
 In our open, inviting, and contributing community, we expect most Slack channels to be public.
 Private Slack channels may be useful when discussing specific details on our connection with specific people or organizations.

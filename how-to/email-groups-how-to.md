@@ -1,3 +1,9 @@
+---
+title: Email Groups
+type: docs
+prev: foundation-governance/how-to/
+---
+
 # Creating a Google Group/Group Email address in the InnerSource Commons domain
 
 This document describes how to create and interact with Google Groups/Email Groups in the InnerSource Commons domain.

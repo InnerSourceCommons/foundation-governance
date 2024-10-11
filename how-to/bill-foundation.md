@@ -1,3 +1,9 @@
+---
+title: Bill Foundation
+type: docs
+prev: foundation-governance/how-to/
+---
+
 # How to Bill the Foundation
 
 If you have contracted to do work for (or need to be reimbursed by) the foundation,

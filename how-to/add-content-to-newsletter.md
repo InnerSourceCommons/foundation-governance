@@ -1,3 +1,9 @@
+---
+title: Add Content to Newsletter
+type: docs
+prev: foundation-governance/how-to/
+---
+
 To add something to an upcoming newsletter, a community member can follow these steps.
 
 1. Navigate to https://github.com/InnerSourceCommons/InnerSourceMarketing/issues?q=newsletter+in%3Atitle

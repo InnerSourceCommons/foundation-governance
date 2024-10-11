@@ -1,7 +1,14 @@
+---
+title: Access ISC Calendar
+type: docs
+prev: foundation-governance/how-to/
+---
+
 # Introduction to adding calendar events to our public calendar
 
 The InnerSource Commons Foundation has a public [Google calendar] that people can use to view and schedule events in the InnerSource Commons [website](https://innersourcecommons.org/calendar/).
 If you want to add an InnerSource event to our public calendar, you can request access by posting a message in the [#google-admins] Slack channel.
+
 The InnerSource Commons Public Calendar is for public events.
 The InnerSource Commons Private Calendar is for private events and should only be used by Foundation members.
 We expect that most events in the InnerSource Commons will be public.

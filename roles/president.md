@@ -1,4 +1,10 @@
-# List of accountabilities of the president role
+---
+title: President
+type: docs
+prev: foundation-governance/roles/
+---
+
+## List of accountabilities of the president role
 
 The InnerSource Commons Foundation exists to provide a home to InnerSource practioners to collaborate on developing InnerSource best practices on a neutral ground across organisation boundaries.
 
