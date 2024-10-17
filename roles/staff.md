@@ -1,5 +1,10 @@
 This document describes our contracted staff and their roles at the Foundation.
 
+# Relationship to Board of Directors
+
+The Board of Directors provides high-level guidance for the Foundation, especially in the form of mission, vision, strategy, and goals.
+The Board of Directors works primarily with the Executive Director to align on this guidance and to review the work of the Executive Director in delivering results for the Foundation.
+
 # Relationship to Community Participants
 
 Our [strategy document](https://github.com/InnerSourceCommons/foundation/blob/master/STRATEGY.md) describes the relationship between our staff and community.
@@ -16,10 +21,10 @@ The annual summit, being the Foundation's largest single activity, receives atte
 # Russ Rutledge
 
 Russ is the Executive Director of the InnerSource Commons Foundation.
-Russ leads the **strategic direction and execution** of that direction for the Foundation.
+Russ leads in aligning with the Board of Directors on the **strategic direction** for the Foundation.
+Russ leads in **organizing and supporting all staff roles** to execute on the direction.
 Russ leads the **alignment of community activity** to the Foundation strategy.
 Russ leads in **sponsor relationships**.
-Russ directly oversees and **supports all other staff roles**.
 
 # Andrea Kyurchiev
 
