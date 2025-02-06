@@ -31,7 +31,7 @@ However, logistics vary significantly:
 
 | Item | Micro Gathering | Community Meetup | Summit Conference |
 |------|----------------|------------------|-------------------|
-| Preparation Period | 1-2 weeks | 2-3 months | 6-12 months |
+| Preparation Period | 1-2 weeks | 2-3 months | 3-6 months |
 | Expected Sponsorship Budget to be addressed | $0-300 | $0-2,000 | Let's discuss |
 | Required Sponsors | 0-1 (Venue/Food) | 0-3 (Venue/Food/Swags/Operation) | 0-10 (Venue/Food/Swags/Operation) |
 | Number of Tracks | 1~ | 4~10 | Could be multiple tracks |
