@@ -37,9 +37,9 @@ Olive is the staff member specializing in **events**.
 Olive leads in supporting all Foundation events (Gatherings, Community Calls, etc).
 
 # Ciara Flanagan
-Ciara is the staff member specializing in **social media and communication**.
-Ciara leads in all public communication for the Foundation (social media, newsletter, etc).
+Ciara is the staff member specializing in **social media**.
+Ciara leads in all social media for the Foundation.
 
-# Community Manager
-The Community Manager is the staff member specializing in **support and organization of community participants**.
-The Community Manager leads in supporting the involvement of community participants in community activities and projects.
+# Lori Goldman
+Lori is the staff member specializing in **support and organization of community participants**.
+Lori leads in supporting the involvement of community participants in community activities and projects.
