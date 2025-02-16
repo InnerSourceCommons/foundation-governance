@@ -223,3 +223,14 @@ The InnerSource Commons Foundation values academic collaboration from its incept
 There's significant research available on InnerSource - please utilize these studies.
 Gatherings can provide excellent opportunities for regional surveys.
 Consider using them to quantitatively assess your region's perspective on InnerSource!
+
+
+### Tips for venue selection
+
+| Venue Type | Description |
+|------------|-------------|
+| Co-working spaces | Find them via internet search and read reviews on your city’s crowdsourced review site. These spaces can be popular, so if you find a suitable space, book it as soon as possible. |
+| Public or university libraries | Local libraries are often very well-equipped to host your gathering. They are often conveniently located close to public transportation and frequently have plenty of on-site or nearby parking that is often free or low cost. Many libraries have cafes and may even offer low-cost, on-site catering. |
+| Breweries, restaurants, and coffee shops | Nearly all breweries, restaurants, and coffee shops have some kind of an event space, frequently with a modest or no fee. The convenience factor is high, as food and beverages are readily available and discounts may be offered to groups that book their event space. Breweries serve alcoholic and non-alcoholic beverages. Those that don’t serve food often have a daily list of food trucks, which offer a variety of different types of food and an undeniable fun factor. |
+| Local and national book sellers | Locally owned and national booksellers frequently have event spaces for book readings and can also have on-site and/or nearby parking. They may not allow food and beverages, so check with the venue beforehand. |
+| Foundations, non-profit, and NGOs | Regional foundations often have their own buildings and attendant parking lots and on-site security. Find them via internet search or your local non-profit association. |
