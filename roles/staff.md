@@ -41,5 +41,5 @@ Ciara is the staff member specializing in **social media**.
 Ciara leads in all social media for the Foundation.
 
 # Lori Goldman
-Lori is the staff member specializing in **support and organization of community participants**.
-Lori leads in supporting the involvement of community participants in community activities and projects.
+Lori is the staff member specializing in **support and facilitation of engagement of community participants**.
+Lori leads in supporting the engagement of community participants in community activities and projects.
