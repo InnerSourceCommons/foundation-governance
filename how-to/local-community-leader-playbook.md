@@ -5,7 +5,7 @@ Welcome to your comprehensive guide for leading an InnerSource chapter.
 
 This guide equips leaders with insights into launching and sustaining a thriving Innersource community. It covers strategy, event planning, and lessons from experienced chapter leaders.
 
-## Why local chapters matter
+## Why local communities matter
 
 The broader InnerSource Commons Foundation community needs to connect with members spread across the globe. While the foundation can’t meet everyone individually, local communities must meet each member where they are.
 
