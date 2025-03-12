@@ -4,7 +4,7 @@ type: docs
 prev: foundation-governance/how-to/
 ---
 # Adding our public and private calendars to your google calendar
-If you would like to be able to view the events in the private and public InnerSource Commons calendars you should add them to your calendar. This can be done by logging into your @innersourcecommons.org account and going to https://calendar.google.com/calendar/ and clicking this button: ![image](https://github.com/user-attachments/assets/3bac171f-caba-4f59-90a0-be06fce5f1fd) 
+If you would like to be able to view the events in the private and public InnerSource Commons calendars you should add them to your calendar. This can be done by logging into your @innersourcecommons.org account (only required for the Private calendar, the public calendar can be added to any Google account) and going to https://calendar.google.com/calendar/ and clicking this button: ![image](https://github.com/user-attachments/assets/3bac171f-caba-4f59-90a0-be06fce5f1fd) 
 
 Next you need to chose the 'From URL' option and you can now paste the following urls to add the calendars. 
 
