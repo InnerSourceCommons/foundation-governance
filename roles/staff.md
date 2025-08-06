@@ -36,9 +36,9 @@ Andrea leads in supporting all technical aspects and resources of the Foundation
 Olive is the staff member specializing in **events**.
 Olive leads in supporting all Foundation events (Gatherings, Community Calls, etc).
 
-# Ciara Flanagan
-Ciara is the staff member specializing in **social media**.
-Ciara leads in all social media for the Foundation.
+# Noreen Quadir
+Noreen is the staff member specializing in **social media**.
+Noreen leads in all social media for the Foundation.
 
 # Elizabeth Barron
 Elizabeth Barron is the staff member specializing in **support and facilitation of engagement of community participants**.
