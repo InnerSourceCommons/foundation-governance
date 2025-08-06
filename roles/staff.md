@@ -40,6 +40,6 @@ Olive leads in supporting all Foundation events (Gatherings, Community Calls, et
 Ciara is the staff member specializing in **social media**.
 Ciara leads in all social media for the Foundation.
 
-# Lori Goldman
-Lori is the staff member specializing in **support and facilitation of engagement of community participants**.
-Lori leads in supporting the engagement of community participants in community activities and projects.
+# Elizabeth Barron
+Elizabeth Barron is the staff member specializing in **support and facilitation of engagement of community participants**.
+Elizabeth Barron leads in supporting the engagement of community participants in community activities and projects.
