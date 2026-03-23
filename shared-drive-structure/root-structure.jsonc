@@ -17,13 +17,7 @@
   {
     "name": "00 – Governance",
     "children": [
-      { "name": "Charter.gdoc" },
-      { "name": "Roles & Responsibilities.gdoc" },
-      { "name": "Style Guide (Docs).gdoc" },
-      // Process doc: Google → GitHub handoff (draft, pre-publish, migration, archive).
-      { "name": "Workflow: Google -> GitHub" },
-      { "name": "Naming Conventions.gdoc" },
-      { "name": "Permissions Model.gdoc" }
+      { "name": "Workflow: Google -> GitHub" }
     ]
   },
 
@@ -31,12 +25,7 @@
   // governed areas elsewhere. Stable collaboration space so WG work does not mix with
   // other areas. Replace <WG Name> with the actual working group name.
   {
-    "name": "01 – Working Groups",
-    "children": [
-      { "name": "Charter.gdoc" },
-      { "name": "<WG Name> – Documentation" },
-      { "name": "<WG Name> – Meetings" }
-    ]
+    "name": "01 – Working Groups"
   },
 
   // 02 – Drafts & Work-in-Progress — Work in development: articles, patterns, case studies,
@@ -77,11 +66,7 @@
 
   // 05 – Templates — Reusable starting points (e.g. Google Doc templates).
   {
-    "name": "05 – Templates",
-    "children": [
-      { "name": "Case Study Template.gdoc" },
-      { "name": "Working Group Charter Template.gdoc" }
-    ]
+    "name": "05 – Templates"
   },
 
   // 06 – Community & Meetings — Community-facing material such as meeting notes.
