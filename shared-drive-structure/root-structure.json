@@ -82,13 +82,13 @@
                                                                                            
                                                 
   {
-    "name": "08 – Credentials"
+    "name": "09 – Credentials"
   },
 
                                                                                           
                                                            
   {
-    "name": "09 – Archives",
+    "name": "08 – Archives",
     "children": [{ "name": "2026" }, { "name": "2027" }]
   }
 ]
