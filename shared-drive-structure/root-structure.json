@@ -17,13 +17,7 @@
   {
     "name": "00 – Governance",
     "children": [
-      { "name": "Charter.gdoc" },
-      { "name": "Roles & Responsibilities.gdoc" },
-      { "name": "Style Guide (Docs).gdoc" },
-                                                                                       
-      { "name": "Workflow: Google -> GitHub" },
-      { "name": "Naming Conventions.gdoc" },
-      { "name": "Permissions Model.gdoc" }
+      { "name": "Workflow: Google -> GitHub" }
     ]
   },
 
@@ -31,12 +25,7 @@
                                                                                       
                                                                        
   {
-    "name": "01 – Working Groups",
-    "children": [
-      { "name": "Charter.gdoc" },
-      { "name": "<WG Name> – Documentation" },
-      { "name": "<WG Name> – Meetings" }
-    ]
+    "name": "01 – Working Groups"
   },
 
                                                                                             
@@ -77,11 +66,7 @@
 
                                                                            
   {
-    "name": "05 – Templates",
-    "children": [
-      { "name": "Case Study Template.gdoc" },
-      { "name": "Working Group Charter Template.gdoc" }
-    ]
+    "name": "05 – Templates"
   },
 
                                                                                  
