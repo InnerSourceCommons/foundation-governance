@@ -82,13 +82,13 @@
   // 08 – Credentials — Accounts and secrets (Zoom, Google Workspace, …). Add subfolders as
   // needed; restrict access to least privilege.
   {
-    "name": "08 – Credentials"
+    "name": "09 – Credentials"
   },
 
   // 09 – Archives — Deprecated or superseded material; year buckets (e.g. 2026, 2027) for
   // post-publication Drive copies per governance workflow.
   {
-    "name": "09 – Archives",
+    "name": "08 – Archives",
     "children": [{ "name": "2026" }, { "name": "2027" }]
   }
 ]
