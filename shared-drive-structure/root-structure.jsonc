@@ -12,27 +12,22 @@
 // GitHub is the stable public source of truth; Drive is the collaboration incubator.
 //
 [
-  // 00 – Governance — "Handles rules and people." Constitution: how people collaborate,
-  // who owns what, and how content is managed.
   {
     "name": "00 – Governance",
+    "description": "Handles rules and people. Constitution: how people collaborate, who owns what, and how content is managed.",
     "children": [
       { "name": "Workflow: Google -> GitHub" }
     ]
   },
 
-  // 01 – Working Groups — Each WG gets a subfolder with clear ownership; same pattern as
-  // governed areas elsewhere. Stable collaboration space so WG work does not mix with
-  // other areas. Replace <WG Name> with the actual working group name.
   {
-    "name": "01 – Working Groups"
+    "name": "01 – Working Groups",
+    "description": "Each WG gets a subfolder with clear ownership; same pattern as governed areas elsewhere. Stable collaboration space so WG work does not mix with other areas. Replace <WG Name> with the actual working group name."
   },
 
-  // 02 – Drafts & Work-in-Progress — Work in development: articles, patterns, case studies,
-  // training, blog posts. "Ready for Publication to GitHub" is the staging area before
-  // maintainers convert to Markdown and open PRs.
   {
     "name": "02 – Drafts & Work-in-Progress",
+    "description": "Work in development: articles, patterns, case studies, training, blog posts. \"Ready for Publication to GitHub\" is the staging area before maintainers convert to Markdown and open PRs.",
     "children": [
       { "name": "Articles" },
       { "name": "Patterns" },
@@ -43,15 +38,14 @@
     ]
   },
 
-  // 03 – Published (To Github) — Source of truth in Drive for content that is GitHub-ready
-  // (published or aligned with the public repo).
   {
-    "name": "03 – Published (To Github)"
+    "name": "03 – Published (To Github)",
+    "description": "Source of truth in Drive for content that is GitHub-ready (published or aligned with the public repo)."
   },
 
-  // 04 – Assets — Shared media: images, decks; brand and diagram assets live under Brand & Visuals.
   {
     "name": "04 – Assets",
+    "description": "Shared media: images, decks; brand and diagram assets live under Brand & Visuals.",
     "children": [
       {
         "name": "Brand & Visuals",
@@ -64,31 +58,29 @@
     ]
   },
 
-  // 05 – Templates — Reusable starting points (e.g. Google Doc templates).
   {
-    "name": "05 – Templates"
+    "name": "05 – Templates",
+    "description": "Reusable starting points (e.g. Google Doc templates)."
   },
 
-  // 06 – Community & Meetings — Community-facing material such as meeting notes.
   {
-    "name": "06 – Community & Meetings"
+    "name": "06 – Community & Meetings",
+    "description": "Community-facing material such as meeting notes."
   },
 
-  // 07 – Outreach & Education — Outreach content: summits, case studies, training, certifications, etc.
   {
-    "name": "07 – Outreach & Education"
+    "name": "07 – Outreach & Education",
+    "description": "Outreach content: summits, case studies, training, certifications, etc."
   },
 
-  // 08 – Credentials — Accounts and secrets (Zoom, Google Workspace, …). Add subfolders as
-  // needed; restrict access to least privilege.
   {
-    "name": "09 – Credentials"
+    "name": "09 – Credentials",
+    "description": "Accounts and secrets (Zoom, Google Workspace, ...). Add subfolders as needed; restrict access to least privilege."
   },
 
-  // 09 – Archives — Deprecated or superseded material; year buckets (e.g. 2026, 2027) for
-  // post-publication Drive copies per governance workflow.
   {
     "name": "08 – Archives",
+    "description": "Deprecated or superseded material; year buckets (e.g. 2026, 2027) for post-publication Drive copies per governance workflow.",
     "children": [{ "name": "2026" }, { "name": "2027" }]
   }
 ]
