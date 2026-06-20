@@ -129,3 +129,4 @@ Foundation Members bridge the community and governance layers of InnerSource Com
 **[See list of Foundation Members](https://innersourcecommons.org/about/members/)**
  
 ## Contributor Ladder Diagram
+![Contributor ladder diagram](assets/contributor-ladder-diagram.png)
