@@ -62,6 +62,6 @@ Contributions can take many forms and do not require formal approval to begin. T
  ### Conclusion
 Contributing to InnerSource Commons means adding to a body of knowledge that practitioners, researchers, and organizations across the world draw on to do their work differently. If you are uncertain where your experience fits best, that is a reasonable place to be. The working groups, community calls, and Slack channels are all good ways to get a sense of where the gaps are and where your contribution would have the most impact.
  
-When you are ready, introduce yourself in the [#introductions]([https://innersourcecommons.slack.com/archives/C0867TAF63H](https://innersourcecommons.slack.com/archives/C0867TAF63H)) channel on Slack. If you would like a more direct conversation about where to begin, reach out to the Community Manager or an admin on Slack.
+When you are ready, introduce yourself in the [#introductions](https://innersourcecommons.slack.com/archives/C0867TAF63H) channel on Slack. If you would like a more direct conversation about where to begin, reach out to the Community Manager or an admin on Slack.
  
 We also want this guide to keep improving. If something here was unclear, missing, or could be explained better, we would love to hear it to help us improve it for the next person.
