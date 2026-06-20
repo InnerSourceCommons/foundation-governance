@@ -1,0 +1,26 @@
+name: Compile Root Structure JSONC to JSON
+
+on:
+  push:
+    paths:
+      - '**/*.jsonc'
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert JSONC to JSON
+        run: |
+          find shared-drive-structure -name "*.jsonc" -not -path "./.git/*" | while read f; do
+            out="${f%.jsonc}.json"
+            npx --yes strip-json-comments-cli "$f" > "$out"
+            echo "Converted $f → $out"
+          done
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        if: ${{ env.ACT != 'true' }}
+        with:
+          commit_message: "chore: compile JSONC → JSON"
+          file_pattern: "**/*.json"

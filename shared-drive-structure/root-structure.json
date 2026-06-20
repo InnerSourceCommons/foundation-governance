@@ -1,0 +1,87 @@
+                                                                    
+  
+                                                                                        
+                                                                                         
+                                                                                             
+  
+                                                                                         
+                                                                                         
+                                                             
+  
+                                                                                               
+                                                                                     
+  
+[
+  {
+    "name": "00 – Governance",
+    "description": "Handles rules and people. Constitution: how people collaborate, who owns what, and how content is managed.",
+    "children": [
+      { "name": "Workflow: Google -> GitHub" }
+    ]
+  },
+
+  {
+    "name": "01 – Working Groups",
+    "description": "Each WG gets a subfolder with clear ownership; same pattern as governed areas elsewhere. Stable collaboration space so WG work does not mix with other areas. Replace <WG Name> with the actual working group name."
+  },
+
+  {
+    "name": "02 – Drafts & Work-in-Progress",
+    "description": "Work in development: articles, patterns, case studies, training, blog posts. \"Ready for Publication to GitHub\" is the staging area before maintainers convert to Markdown and open PRs.",
+    "children": [
+      { "name": "Articles" },
+      { "name": "Patterns" },
+      { "name": "Case Studies" },
+      { "name": "Training" },
+      { "name": "Blog Posts" },
+      { "name": "Ready for Publication to GitHub" }
+    ]
+  },
+
+  {
+    "name": "03 – Published (To Github)",
+    "description": "Source of truth in Drive for content that is GitHub-ready (published or aligned with the public repo)."
+  },
+
+  {
+    "name": "04 – Assets",
+    "description": "Shared media: images, decks; brand and diagram assets live under Brand & Visuals.",
+    "children": [
+      {
+        "name": "Brand & Visuals",
+        "children": [
+          { "name": "Logo Variants" },
+          { "name": "Color Guides" },
+          { "name": "Diagrams" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "05 – Templates",
+    "description": "Reusable starting points (e.g. Google Doc templates)."
+  },
+
+  {
+    "name": "06 – Community & Meetings",
+    "description": "Community-facing material such as meeting notes."
+  },
+
+  {
+    "name": "07 – Outreach & Education",
+    "description": "Outreach content: summits, case studies, training, certifications, etc."
+  },
+
+  {
+    "name": "09 – Credentials",
+    "description": "Accounts and secrets (Zoom, Google Workspace, ...). Add subfolders as needed; restrict access to least privilege."
+  },
+
+  {
+    "name": "08 – Archives",
+    "description": "Deprecated or superseded material; year buckets (e.g. 2026, 2027) for post-publication Drive copies per governance workflow.",
+    "children": [{ "name": "2026" }, { "name": "2027" }]
+  }
+]
+

@@ -36,10 +36,6 @@ Andrea leads in supporting all technical aspects and resources of the Foundation
 Olive is the staff member specializing in **events**.
 Olive leads in supporting all Foundation events (Gatherings, Community Calls, etc).
 
-# Ciara Flanagan
-Ciara is the staff member specializing in **social media**.
-Ciara leads in all social media for the Foundation.
-
-# Lori Goldman
-Lori is the staff member specializing in **support and facilitation of engagement of community participants**.
-Lori leads in supporting the engagement of community participants in community activities and projects.
+# Maryblessing Okolie
+Maryblessing Okolie is the staff member specializing in **support and facilitation of engagement of community participants**.
+Maryblessing Okolie leads in supporting the engagement of community participants in community activities and projects.
