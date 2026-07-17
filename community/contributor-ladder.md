@@ -95,7 +95,7 @@ There is no application process to become a Contributor. Sustained, high-quality
  
 Foundation Members are contributors who have demonstrated sustained, high-quality engagement with the community and have been recognized through a formal nomination and election process. Membership is purely merit-based, free of any cost, and restricted to individuals. It is not tied to the organization a person works for or their professional title.
  
-Foundation Membership also opens the path to becoming a Trusted Committer. **Trusted Committer** is a stewardship role for Foundation Members who take on formal leadership of a working group or initiative. It is documented separately in the InnerSource Commons [Bylaws](https://innersourcecommons.org/about/board/).
+Foundation Membership also opens the path to becoming a Trusted Committer. **Trusted Committer** is a stewardship role for Foundation Members who take on formal leadership of a working group or initiative. It is documented separately in the InnerSource Commons [Bylaws](https://innersourcecommons.org/documents/bylaws.pdf).
  
 **What they do**
  
