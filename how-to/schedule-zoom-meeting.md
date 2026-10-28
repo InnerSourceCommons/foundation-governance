@@ -8,7 +8,6 @@ prev: foundation-governance/how-to/
 
 InnerSource Commons runs its meetings on Zoom.
 You schedule one from your `@innersourcecommons.org` Google Calendar with the Zoom add-on, and the invite carries the Zoom link.
-You do not need to sign in to the Zoom website to host a meeting this way.
 
 Scheduling from your ISC account puts the event on your ISC calendar and creates the Zoom meeting under the Foundation's shared Zoom account.
 For the shared Zoom login itself, see [How We Run Shared Logins](shared-logins).
