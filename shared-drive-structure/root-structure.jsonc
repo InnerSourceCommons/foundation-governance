@@ -14,12 +14,8 @@
 [
   {
     "name": "00 – Governance",
-    "description": "Handles rules and people. Constitution: how people collaborate, who owns what, and how content is managed.",
-    "children": [
-      { "name": "Workflow: Google -> GitHub" }
-    ]
+    "description": "Handles rules and people. Constitution: how people collaborate, who owns what, and how content is managed."
   },
-
   {
     "name": "01 – Working Groups",
     "description": "Each WG gets a subfolder with clear ownership; same pattern as governed areas elsewhere. Stable collaboration space so WG work does not mix with other areas. Replace <WG Name> with the actual working group name."
